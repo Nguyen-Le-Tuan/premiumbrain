@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:premiumbrain/pages/home.dart';
+import 'package:premiumbrain/presentation/pages/home.dart';
 
 void main() {
   runApp(const MyApp());

@@ -76,9 +76,6 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-   - family: PlaywriteBEVLG-VariableFont
-     fonts:
-       - asset: assets/fonts/PlaywriteBEVLG-VariableFont_wght.ttf
    - family: Roboto
      fonts:
        - asset: assets/fonts/Roboto-Black.ttf
